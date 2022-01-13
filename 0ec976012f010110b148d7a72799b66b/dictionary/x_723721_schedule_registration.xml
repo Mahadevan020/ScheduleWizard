@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Registration" max_length="40" name="x_723721_schedule_registration" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Candidate Name" max_length="100" name="candidate_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="40" name="location" type="string"/>
+        <element label="No. of Days" max_length="40" name="no_of_days" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="approved" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" value="approved"/>
+                <element inactive_on_update="false" label="In Progress" value="in_progress"/>
+                <element inactive_on_update="false" label="Rejected" value="rejected"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Trainer Name" max_length="100" name="trainer_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Training End Date" max_length="40" name="training_end_date" type="glide_date"/>
+        <element attributes="encode_utf8=false" label="Training Name" max_length="32" name="training_name" reference="x_723721_schedule_training_courses" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Training Start Date" max_length="40" name="training_start_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Training Timings" max_length="40" name="training_timings" type="glide_date_time"/>
+        <index name="index">
+            <element name="training_name"/>
+        </index>
+    </element>
+</database>
