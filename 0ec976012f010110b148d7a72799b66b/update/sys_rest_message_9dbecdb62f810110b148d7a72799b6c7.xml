@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>oauth2</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description/>
+        <name>Zoom</name>
+        <oauth2_profile display_value="Zoom API default_profile">919e09b62f810110b148d7a72799b6f1</oauth2_profile>
+        <protocol_name/>
+        <rest_endpoint>https://api.zoom.us/v2/users/me/meetings</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-18 07:33:37</sys_created_on>
+        <sys_id>9dbecdb62f810110b148d7a72799b6c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Zoom</sys_name>
+        <sys_package display_value="Schedule Wizard" source="x_723721_schedule">0ec976012f010110b148d7a72799b66b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Wizard">0ec976012f010110b148d7a72799b66b</sys_scope>
+        <sys_update_name>sys_rest_message_9dbecdb62f810110b148d7a72799b6c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-18 07:33:37</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>

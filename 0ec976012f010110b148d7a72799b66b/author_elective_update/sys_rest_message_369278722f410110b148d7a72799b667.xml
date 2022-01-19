@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="DELETE">
+        <access>package_private</access>
+        <authentication_type>oauth2</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description/>
+        <name>Zoom</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://api.zoom.us/v2/users</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-18 05:38:43</sys_created_on>
+        <sys_id>369278722f410110b148d7a72799b667</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Zoom</sys_name>
+        <sys_package display_value="Schedule Wizard" source="x_723721_schedule">0ec976012f010110b148d7a72799b66b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Wizard">0ec976012f010110b148d7a72799b66b</sys_scope>
+        <sys_update_name>sys_rest_message_369278722f410110b148d7a72799b667</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-18 05:38:43</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Schedule Wizard">0ec976012f010110b148d7a72799b66b</application>
+        <file_path/>
+        <instance_id>b42994ecdbabc0542f68c597059619e2</instance_id>
+        <instance_name>dev102768</instance_name>
+        <name>sys_rest_message_369278722f410110b148d7a72799b667</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message"><sys_rest_message action="INSERT_OR_UPDATE"><access>package_private</access><authentication_type>oauth2</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><description/><name>Zoom</name><oauth2_profile/><protocol_name/><rest_endpoint>https://api.zoom.us/v2/users</rest_endpoint><sys_class_name>sys_rest_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-18 05:38:43</sys_created_on><sys_id>369278722f410110b148d7a72799b667</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Zoom</sys_name><sys_package display_value="Schedule Wizard" source="x_723721_schedule">0ec976012f010110b148d7a72799b66b</sys_package><sys_policy/><sys_scope display_value="Schedule Wizard">0ec976012f010110b148d7a72799b66b</sys_scope><sys_update_name>sys_rest_message_369278722f410110b148d7a72799b667</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-18 05:38:43</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mutual_auth>false</use_mutual_auth></sys_rest_message></record_update>]]></payload>
+        <payload_hash>-1253766851</payload_hash>
+        <record_name>Zoom</record_name>
+        <reverted_from/>
+        <source>fe860b492f010110b148d7a72799b63d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-18 06:00:10</sys_created_on>
+        <sys_id>8979b8b62f410110b148d7a72799b65b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e6bc577a30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-18 06:00:10</sys_updated_on>
+        <type>REST Message</type>
+        <update_guid>3284fcb2ed410110a72518f378714e60</update_guid>
+        <update_guid_history>3284fcb2ed410110a72518f378714e60:-1008504758,3284fcb2ed410110a72518f378714e60:-1008504758</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-18 06:12:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message">sys_rest_message</sys_db_object>
+        <sys_id>05b848471c8c41f4810bb37ba6b1c384</sys_id>
+        <sys_metadata>369278722f410110b148d7a72799b667</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Zoom</sys_name>
+        <sys_package display_value="Schedule Wizard" source="x_723721_schedule">0ec976012f010110b148d7a72799b66b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Wizard">0ec976012f010110b148d7a72799b66b</sys_scope>
+        <sys_scope_delete display_value="">82004467496848acb25762d5e9f2e990</sys_scope_delete>
+        <sys_update_name>sys_rest_message_369278722f410110b148d7a72799b667</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_369278722f410110b148d7a72799b667">8979b8b62f410110b148d7a72799b65b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-18 06:12:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

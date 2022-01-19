@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="DELETE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>0</auth_code_lifespan>
+        <auth_url>https://zoom.us/oauth/authorize</auth_url>
+        <certificate_url/>
+        <client_id>XYJK0vUtTT6z80sZkz0Aw</client_id>
+        <client_secret>rHrX7ZG/ifpjd1PHqpm8XPGtkja16M/Ppc/4bjsYjgx7MaSa+EyjGA==</client_secret>
+        <client_uuid>5660fcfe2f010110b148d7a72799b6a9</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>authorization_code</default_grant_type>
+        <id_token_lifespan>0</id_token_lifespan>
+        <logo_url/>
+        <message_signature_lifespan>0</message_signature_lifespan>
+        <name>Zoom API</name>
+        <oauth_api_script/>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url>https://dev102768.service-now.com/oauth_redirect.do</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url/>
+        <restricted_binding>false</restricted_binding>
+        <revoke_token_url/>
+        <salt>0</salt>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-18 05:28:27</sys_created_on>
+        <sys_id>d660fcfe2f010110b148d7a72799b6a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Zoom API</sys_name>
+        <sys_package display_value="Schedule Wizard" source="x_723721_schedule">0ec976012f010110b148d7a72799b66b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Wizard">0ec976012f010110b148d7a72799b66b</sys_scope>
+        <sys_update_name>oauth_entity_d660fcfe2f010110b148d7a72799b6a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-18 05:28:27</sys_updated_on>
+        <token_url>https://zoom.us/oauth/token</token_url>
+        <type>oauth_provider</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Schedule Wizard">0ec976012f010110b148d7a72799b66b</application>
+        <file_path/>
+        <instance_id>b42994ecdbabc0542f68c597059619e2</instance_id>
+        <instance_name>dev102768</instance_name>
+        <name>oauth_entity_d660fcfe2f010110b148d7a72799b6a9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity"><oauth_entity action="INSERT_OR_UPDATE"><access>public</access><access_token_lifespan>1800</access_token_lifespan><active>true</active><auth_code_lifespan>0</auth_code_lifespan><auth_url>https://zoom.us/oauth/authorize</auth_url><certificate_url/><client_id>XYJK0vUtTT6z80sZkz0Aw</client_id><client_secret>rHrX7ZG/ifpjd1PHqpm8XPGtkja16M/Ppc/4bjsYjgx7MaSa+EyjGA==</client_secret><client_uuid>5660fcfe2f010110b148d7a72799b6a9</client_uuid><code_challenge_method>S256</code_challenge_method><comments/><default_grant_type>authorization_code</default_grant_type><id_token_lifespan>0</id_token_lifespan><logo_url/><message_signature_lifespan>0</message_signature_lifespan><name>Zoom API</name><oauth_api_script/><protocol_name/><public_client>false</public_client><redirect_url>https://dev102768.service-now.com/oauth_redirect.do</redirect_url><refresh_token_lifespan>8640000</refresh_token_lifespan><refresh_token_url/><restricted_binding>false</restricted_binding><revoke_token_url/><salt>0</salt><send_client_credentials_as>request_body_parameter</send_client_credentials_as><skip_authorize>false</skip_authorize><sys_class_name>oauth_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-18 05:28:27</sys_created_on><sys_id>d660fcfe2f010110b148d7a72799b6a9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Zoom API</sys_name><sys_package display_value="Schedule Wizard" source="x_723721_schedule">0ec976012f010110b148d7a72799b66b</sys_package><sys_policy/><sys_scope display_value="Schedule Wizard">0ec976012f010110b148d7a72799b66b</sys_scope><sys_update_name>oauth_entity_d660fcfe2f010110b148d7a72799b6a9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-18 05:28:27</sys_updated_on><token_url>https://zoom.us/oauth/token</token_url><type>oauth_provider</type><use_mutual_auth>false</use_mutual_auth><user/></oauth_entity></record_update>]]></payload>
+        <payload_hash>643719952</payload_hash>
+        <record_name>Zoom API</record_name>
+        <reverted_from/>
+        <source>fe860b492f010110b148d7a72799b63d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-18 05:28:27</sys_created_on>
+        <sys_id>58323cfe2f010110b148d7a72799b600</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e6ba86dde0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-18 05:28:27</sys_updated_on>
+        <type>Application Registries</type>
+        <update_guid>90323cfe810101101491b53a1c8f0800</update_guid>
+        <update_guid_history>90323cfe810101101491b53a1c8f0800:643719952</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Zoom API">e979b8b62f410110b148d7a72799b662</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-18 06:00:12</sys_created_on>
+        <sys_db_object display_value="" name="oauth_entity">oauth_entity</sys_db_object>
+        <sys_id>02466666975048f08007a2b29e70aa90</sys_id>
+        <sys_metadata>d660fcfe2f010110b148d7a72799b6a9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Zoom API</sys_name>
+        <sys_package display_value="Schedule Wizard" source="x_723721_schedule">0ec976012f010110b148d7a72799b66b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Wizard">0ec976012f010110b148d7a72799b66b</sys_scope>
+        <sys_scope_delete display_value="">82004467496848acb25762d5e9f2e990</sys_scope_delete>
+        <sys_update_name>oauth_entity_d660fcfe2f010110b148d7a72799b6a9</sys_update_name>
+        <sys_update_version display_value="oauth_entity_d660fcfe2f010110b148d7a72799b6a9">58323cfe2f010110b148d7a72799b600</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-18 06:00:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

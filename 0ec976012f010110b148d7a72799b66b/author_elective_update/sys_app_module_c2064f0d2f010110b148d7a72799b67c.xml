@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Schedule Wizard">4a064f0d2f010110b148d7a72799b677</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_723721_schedule_registration</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-13 05:45:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c2064f0d2f010110b148d7a72799b67c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Schedule Wizard" source="x_723721_schedule">0ec976012f010110b148d7a72799b66b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Wizard">0ec976012f010110b148d7a72799b66b</sys_scope>
+        <sys_update_name>sys_app_module_c2064f0d2f010110b148d7a72799b67c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-13 05:45:00</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Schedule Wizard">0ec976012f010110b148d7a72799b66b</application>
+        <file_path/>
+        <instance_id>b42994ecdbabc0542f68c597059619e2</instance_id>
+        <instance_name>dev102768</instance_name>
+        <name>sys_app_module_c2064f0d2f010110b148d7a72799b67c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Schedule Wizard">4a064f0d2f010110b148d7a72799b677</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_723721_schedule_registration</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-13 05:45:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c2064f0d2f010110b148d7a72799b67c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="Schedule Wizard" source="x_723721_schedule">0ec976012f010110b148d7a72799b66b</sys_package><sys_policy/><sys_scope display_value="Schedule Wizard">0ec976012f010110b148d7a72799b66b</sys_scope><sys_update_name>sys_app_module_c2064f0d2f010110b148d7a72799b67c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-13 05:45:00</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1362170458</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>8ec976012f010110b148d7a72799b66d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-13 05:45:00</sys_created_on>
+        <sys_id>0e064f0d2f010110b148d7a72799b67d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e51f7c8a90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-13 05:45:00</sys_updated_on>
+        <type>Module</type>
+        <update_guid>46064f0df40101105dddd550a9d17e7d</update_guid>
+        <update_guid_history>46064f0df40101105dddd550a9d17e7d:-1362170458</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">8e58c3cd2f010110b148d7a72799b6b8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-13 05:55:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0e0aad1b8483466e81f30dddd5176829</sys_id>
+        <sys_metadata>c2064f0d2f010110b148d7a72799b67c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="Schedule Wizard" source="x_723721_schedule">0ec976012f010110b148d7a72799b66b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Wizard">0ec976012f010110b148d7a72799b66b</sys_scope>
+        <sys_scope_delete display_value="">82004467496848acb25762d5e9f2e990</sys_scope_delete>
+        <sys_update_name>sys_app_module_c2064f0d2f010110b148d7a72799b67c</sys_update_name>
+        <sys_update_version display_value="sys_app_module_c2064f0d2f010110b148d7a72799b67c">0e064f0d2f010110b148d7a72799b67d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-13 05:55:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-13 05:44:13</sys_created_on>
+        <sys_id>3ed5834d2f010110b148d7a72799b67f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_723721_schedule_registration.x_723721_schedule.employee</sys_name>
+        <sys_package display_value="Schedule Wizard" source="x_723721_schedule">0ec976012f010110b148d7a72799b66b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Wizard">0ec976012f010110b148d7a72799b66b</sys_scope>
+        <sys_security_acl display_value="x_723721_schedule_registration">b2d5834d2f010110b148d7a72799b67d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3ed5834d2f010110b148d7a72799b67f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-13 05:44:13</sys_updated_on>
+        <sys_user_role display_value="x_723721_schedule.employee" name="x_723721_schedule.employee">2c3a72812f010110b148d7a72799b611</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Schedule Wizard">0ec976012f010110b148d7a72799b66b</application>
+        <file_path/>
+        <instance_id>b42994ecdbabc0542f68c597059619e2</instance_id>
+        <instance_name>dev102768</instance_name>
+        <name>sys_security_acl_role_3ed5834d2f010110b148d7a72799b67f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-13 05:44:13</sys_created_on><sys_id>3ed5834d2f010110b148d7a72799b67f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_723721_schedule_registration.x_723721_schedule.employee</sys_name><sys_package display_value="Schedule Wizard" source="x_723721_schedule">0ec976012f010110b148d7a72799b66b</sys_package><sys_policy/><sys_scope display_value="Schedule Wizard">0ec976012f010110b148d7a72799b66b</sys_scope><sys_security_acl display_value="x_723721_schedule_registration">b2d5834d2f010110b148d7a72799b67d</sys_security_acl><sys_update_name>sys_security_acl_role_3ed5834d2f010110b148d7a72799b67f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-13 05:44:13</sys_updated_on><sys_user_role display_value="x_723721_schedule.employee" name="x_723721_schedule.employee">2c3a72812f010110b148d7a72799b611</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>78001598</payload_hash>
+        <record_name>x_723721_schedule_registration.x_723721_schedule.employee</record_name>
+        <reverted_from/>
+        <source>8ec976012f010110b148d7a72799b66d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-13 05:44:13</sys_created_on>
+        <sys_id>76d5834d2f010110b148d7a72799b682</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e51f712440000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-13 05:44:13</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>bed5834dd9010110d35106352f7e7281</update_guid>
+        <update_guid_history>bed5834dd9010110d35106352f7e7281:78001598</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_723721_schedule_registration.x_723721_schedule.employee">3958c3cd2f010110b148d7a72799b66f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-13 05:55:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0202cf1e07084b00800a73736e4732c1</sys_id>
+        <sys_metadata>3ed5834d2f010110b148d7a72799b67f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_723721_schedule_registration.x_723721_schedule.employee</sys_name>
+        <sys_package display_value="Schedule Wizard" source="x_723721_schedule">0ec976012f010110b148d7a72799b66b</sys_package>
+        <sys_parent display_value="">b2d5834d2f010110b148d7a72799b67d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Schedule Wizard">0ec976012f010110b148d7a72799b66b</sys_scope>
+        <sys_scope_delete display_value="">82004467496848acb25762d5e9f2e990</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_3ed5834d2f010110b148d7a72799b67f</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_3ed5834d2f010110b148d7a72799b67f">76d5834d2f010110b148d7a72799b682</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-13 05:55:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
