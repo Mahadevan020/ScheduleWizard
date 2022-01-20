@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Training Courses" max_length="40" name="x_723721_schedule_training_courses" sizeclass="2" type="collection">
+        <element choice="3" label="Approval" max_length="40" name="approval" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="In Process" value="In Process"/>
+                <element inactive_on_update="false" label="Approved" sequence="100" value="Approved"/>
+                <element inactive_on_update="false" label="Rejected" sequence="200" value="Rejected"/>
+            </choice>
+        </element>
         <element label="Duration" max_length="40" name="duration" type="integer"/>
         <element label="Location" max_length="100" name="location" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Meeting Title" max_length="100" name="meeting_title" type="string"/>

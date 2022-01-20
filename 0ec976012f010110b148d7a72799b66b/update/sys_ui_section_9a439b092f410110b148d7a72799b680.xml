@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-18 06:56:55</sys_created_on>
-            <sys_id>547645fe2f410110b148d7a72799b686</sys_id>
+            <sys_created_on>2022-01-20 06:45:04</sys_created_on>
+            <sys_id>9ae61b5f2f010110b148d7a72799b642</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_723721_schedule_training_courses" sys_domain="global" view="Default view">9a439b092f410110b148d7a72799b680</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-18 06:56:55</sys_updated_on>
+            <sys_updated_on>2022-01-20 06:45:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>training_name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-18 06:56:55</sys_created_on>
-            <sys_id>1c7645fe2f410110b148d7a72799b686</sys_id>
+            <sys_created_on>2022-01-20 06:45:04</sys_created_on>
+            <sys_id>12e61b5f2f010110b148d7a72799b643</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_723721_schedule_training_courses" sys_domain="global" view="Default view">9a439b092f410110b148d7a72799b680</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-18 06:56:55</sys_updated_on>
+            <sys_updated_on>2022-01-20 06:45:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>trainer_name</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-18 06:56:55</sys_created_on>
-            <sys_id>9c7645fe2f410110b148d7a72799b686</sys_id>
+            <sys_created_on>2022-01-20 06:45:04</sys_created_on>
+            <sys_id>92e61b5f2f010110b148d7a72799b643</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_723721_schedule_training_courses" sys_domain="global" view="Default view">9a439b092f410110b148d7a72799b680</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-18 06:56:55</sys_updated_on>
+            <sys_updated_on>2022-01-20 06:45:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>location</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-18 06:56:55</sys_created_on>
-            <sys_id>107645fe2f410110b148d7a72799b687</sys_id>
+            <sys_created_on>2022-01-20 06:45:04</sys_created_on>
+            <sys_id>16e61b5f2f010110b148d7a72799b643</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_723721_schedule_training_courses" sys_domain="global" view="Default view">9a439b092f410110b148d7a72799b680</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-18 06:56:55</sys_updated_on>
+            <sys_updated_on>2022-01-20 06:45:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-18 06:56:55</sys_created_on>
-            <sys_id>907645fe2f410110b148d7a72799b687</sys_id>
+            <sys_created_on>2022-01-20 06:45:04</sys_created_on>
+            <sys_id>96e61b5f2f010110b148d7a72799b643</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_723721_schedule_training_courses" sys_domain="global" view="Default view">9a439b092f410110b148d7a72799b680</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-18 06:56:55</sys_updated_on>
+            <sys_updated_on>2022-01-20 06:45:04</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -74,27 +74,27 @@
             <element>status</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-18 06:56:55</sys_created_on>
-            <sys_id>147645fe2f410110b148d7a72799b687</sys_id>
+            <sys_created_on>2022-01-20 06:45:04</sys_created_on>
+            <sys_id>1ae61b5f2f010110b148d7a72799b643</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_723721_schedule_training_courses" sys_domain="global" view="Default view">9a439b092f410110b148d7a72799b680</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-18 06:56:55</sys_updated_on>
+            <sys_updated_on>2022-01-20 06:45:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_created_on</element>
+            <element>approval</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-18 06:56:55</sys_created_on>
-            <sys_id>947645fe2f410110b148d7a72799b687</sys_id>
+            <sys_created_on>2022-01-20 06:45:04</sys_created_on>
+            <sys_id>9ae61b5f2f010110b148d7a72799b643</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_723721_schedule_training_courses" sys_domain="global" view="Default view">9a439b092f410110b148d7a72799b680</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-18 06:56:55</sys_updated_on>
+            <sys_updated_on>2022-01-20 06:45:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
